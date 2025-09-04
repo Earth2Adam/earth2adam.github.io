@@ -8,5 +8,5 @@ permalink: /accolades/
 ---
 
 
-Balatro single hand high score (gold stake): 1.887e23
+Balatro single hand high score (gold stake): 1.887e23 \
 Pokemon Virginia Regionals 2016 Top 64
