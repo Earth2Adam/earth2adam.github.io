@@ -12,7 +12,7 @@ permalink: /accolades/
 Balatro single-hand high score (gold stake): 1.887e23 \
 [Countries of the World No Outlines Minefield Quiz](https://www.sporcle.com/games/teedslaststand/world-no-outlines-minefield): 197/197 \
 [Flags of the World Quiz](https://www.sporcle.com/games/g/worldflags): 197/197 \
-Typing Record: 89 WPM
+Typing Record: 89 WPM \
 Pokemon Virginia Regionals 2016 Top 64 \
 2nd Place Boy Scouts Regional Baking Competition 2012 (Cinnamon Rolls) \
 1st Place Boy Scouts Locals Pinewood Derby 2010 \
