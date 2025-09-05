@@ -10,6 +10,7 @@ permalink: /accolades/
 1x Intramural Champion (Clemson Indoor Soccer) \
 2x Intramural Finalist (Adult Flag Football) \
 Balatro single-hand high score (gold stake): 1.887e23 \
+<a href="http://example.com/](https://www.sporcle.com/games/teedslaststand/world-no-outlines-minefield)" target="_blank">Countries of the World No Outlines Minefield Quiz</a>: 197/197 \
 [Countries of the World No Outlines Minefield Quiz](https://www.sporcle.com/games/teedslaststand/world-no-outlines-minefield): 197/197 \
 [Flags of the World Quiz](https://www.sporcle.com/games/g/worldflags): 197/197 \
 Typing Record: 89 WPM \
