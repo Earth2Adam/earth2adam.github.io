@@ -13,3 +13,4 @@ Balatro single-hand high score (gold stake): 1.887e23 \
 Pokemon Virginia Regionals 2016 Top 64 \
 2nd Place Boy Scouts Regional Baking Competition 2012 (Cinnamon Rolls) \
 1st Place Boy Scouts Locals Pinewood Derby 2010 \
+2006 Hilton Head Mini Putting Champion (Juniors division)
