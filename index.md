@@ -11,5 +11,12 @@ position: 1
 
 I'm Adam. I like many, many things. 
 
-So many in fact, where could I begin?
+
+I was born and raised in Virginia, and have spent my whole life there outside of 
+my time at Clemson University. I graduated in the Fall of 2024 with my Masters in Computer Engineering, and since then have been traveling around the world, meeting people seeing places and doing various things. Many things.
+
+
+I love movies, all types of music, and most of all, playing in adult sports leagues with my friends. I have recently found talents in ultimate frisbee and flag football, and arguable my greatest accomplishment in my life was winning our competitive indoor soccer league at Clemson. 
+
+While you’re here, you might as well check out some of my projects and try to solve a crossword or three!
 
