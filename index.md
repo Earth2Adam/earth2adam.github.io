@@ -7,9 +7,9 @@ layout: home
 position: 1
 ---
 
-## Yoooo
+## Hello!
 
-I'm Adam. I like many, many things. 
+I'm Adam. I like many, many things. I like creating things, especially software, games, and puzzles. 
 
 
 I was born and raised in Virginia, and have spent my whole life there outside of 
@@ -18,5 +18,4 @@ my time at Clemson University. I graduated in the Fall of 2024 with my Masters i
 
 I love movies, all types of music, and most of all, playing in adult sports leagues with my friends. I have recently found talents in ultimate frisbee and flag football, and arguable my greatest accomplishment in my life was winning our competitive indoor soccer league at Clemson. 
 
-While you’re here, you might as well check out some of my projects and try to solve a crossword or three!
 
