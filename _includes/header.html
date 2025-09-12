@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Header with Two Images</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: sans-serif;
+    }
+
+    header {
+      display: flex;               /* put items side by side */
+      justify-content: space-between; /* push them apart */
+      align-items: center;         /* vertically center */
+      padding: 10px 20px;
+      background-color: #f5f5f5;
+      border-bottom: 2px solid #ddd;
+    }
+
+    header img {
+      height: 60px;  /* set image size */
+      object-fit: contain;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <!-- Left image (logo) -->
+    <img src="/assets/images/sign.jpg" alt="out 2 lunch sign">
+
+    <!-- Right image (banner, icon, etc.) -->
+    <img src="/assets/images/header.jpg" alt="a sandwich.">
+  </header>
+</body>
+</html>
+
