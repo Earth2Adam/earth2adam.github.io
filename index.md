@@ -9,6 +9,12 @@ position: 1
 
 ## Hello!
 
+
+<div class="home-image home-image-mobile">
+    <img src="/assets/images/me.jpg" alt="Me with my dawg" />
+</div>
+
+
 I'm Adam. I like many, many things. I like creating things, especially software, games, and puzzles. 
 
 
