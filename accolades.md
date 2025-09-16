@@ -12,8 +12,9 @@ permalink: /accolades/
 <a href="https://en.wikipedia.org/wiki/Balatro" target="_blank">Balatro</a> single-hand high score (gold stake): 1.887e23 \
 <a href="https://www.sporcle.com/games/teedslaststand/world-no-outlines-minefield" target="_blank">Countries of the World No Outlines Minefield Quiz</a>: 197/197 \
 <a href="https://www.sporcle.com/games/g/worldflags" target="_blank">Flags of the World Quiz</a>: 197/197 \
+NYT Mini Crossword Record: 0:09 \
 Typing Record: 89 WPM \
-Pokemon Virginia Regionals 2016 Top 64 \
+Pokemon TCG Virginia Regionals 2016: Top 64 \
 2nd Place Boy Scouts Regional Baking Competition 2012 (Cinnamon Rolls) \
 1st Place Boy Scouts Locals Pinewood Derby 2010 \
 2006 Hilton Head Mini Putting Champion (Juniors division)

@@ -194,3 +194,9 @@ table td { border: 1px solid #e8e8e8; }
 .highlight .vg { color: #008080; }
 .highlight .vi { color: #008080; }
 .highlight .il { color: #099; }
+
+.site-header { min-height: 150px; background-color: #E6B46A; }
+
+.site-title { font-weight: 700; font-size: 2em; line-height: 150px; }
+
+.username { display: none; }
