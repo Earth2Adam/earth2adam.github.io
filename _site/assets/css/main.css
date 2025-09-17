@@ -199,4 +199,15 @@ table td { border: 1px solid #e8e8e8; }
 
 .site-title { font-weight: 700; font-size: 2em; line-height: 150px; }
 
+.site-footer { background-color: #f5f1e2; border: none; text-align: center; padding: 18px; }
+
+.home-link { font-size: 1em; border-right: 1px solid; padding-right: 7.5px; margin-right: 7.5px; }
+
+.email-link { border-left: 1px solid; padding-left: 7.5px; margin-left: 7.5px; }
+
 .username { display: none; }
+
+.site-footer .social-media-list { padding: 0; margin-left: 3px; display: inline-block; }
+.site-footer .social-media-list li { display: inline; }
+.site-footer .social-media-list li:not(:last-child) { margin-right: 3px; }
+.site-footer .social-media-list .svg-icon { fill: #111; vertical-align: text-top; width: 20px; height: 20px; }

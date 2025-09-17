@@ -1,6 +1,40 @@
+.site-footer
+	background-color: #f5f1e2
+	border: none
+	text-align: center
+	padding: $spacing-unit * 0.6
 
+
+.home-link
+	font-size: 1em
+	border-right: 1px solid
+	padding-right: $spacing-unit * 0.25
+	margin-right: $spacing-unit * 0.25
+
+.email-link
+	border-left: 1px solid
+	padding-left: $spacing-unit * 0.25
+	margin-left: $spacing-unit * 0.25
 
 
 
 .username
 	display: none
+
+
+.site-footer .social-media-list
+	padding: 0
+	margin-left: $spacing-unit * 0.1
+	display: inline-block
+	
+	li
+		display: inline	
+		&:not(:last-child)
+			margin-right: $spacing-unit * 0.1
+
+	.svg-icon
+		fill: $text-color
+		vertical-align: text-top
+		width: 20px
+		height: 20px
+	
