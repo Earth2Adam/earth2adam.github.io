@@ -7,7 +7,7 @@ title: "Accolades"
 permalink: /accolades/
 ---
 
-1x Intramural Champion (Clemson Indoor Soccer) \
+1x Intramural Champion <a href="/assets/images/champions.jpg" target="_blank">(Clemson Indoor Soccer)</a> \
 \
 2x Intramural Finalist (Adult Flag Football) \
 \
@@ -19,7 +19,7 @@ NYT Mini Crossword Best Time: 0:09 <a href="/assets/images/mini-record.png" targ
 \
 Typing Record: 89 WPM \
 \
-<a href="https://en.wikipedia.org/wiki/Balatro" target="_blank">Balatro</a> single-hand high score (Gold Stake): 1.887e23 \
+<a href="https://en.wikipedia.org/wiki/Balatro" target="_blank">Balatro</a> single-hand high score (Gold Stake): <a href="/assets/images/balatro-record.png" target="_blank">1.887e23</a> \
 \
 Pokemon TCG <a href="https://www.pokemon.com/us/play-pokemon/winter-regional-championships-2016/decks/virginia/masters" target="_blank">Virginia Regionals 2016</a>: Top 64 \
 \
